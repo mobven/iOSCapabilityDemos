@@ -1,0 +1,20 @@
+{
+  "appclips": {
+    "apps": ["RE9892F24F.com.mobven.ios.enterprise.demo.iOSLabAppClipDemoApp.iOSLabAppClipDemoApp"]
+  },
+  "applinks": {
+    "details": [
+      {
+        "appID": "RE9892F24F.com.mobven.ios.enterprise.demo.iOSLabAppClipDemoApp",
+        "components": [
+          { "/": "/appclip/*" }
+        ]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": [
+      "RE9892F24F.com.mobven.ios.enterprise.demo.iOSLabAppClipDemoApp"
+    ]
+  }
+}
